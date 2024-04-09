@@ -1,6 +1,6 @@
 ## Prerequisites
 - Java 17 or higher
-- You need to have a Shared Library named 'SudokuSolverCPP' in a 'lib'-folder (see Repository <?????> to build this Shared Library)
+- You need to have a Shared Library named 'SudokuSolverCPP' in a 'lib'-folder (see Repository https://github.com/bkratz/SudokuSolverCPP to build this Shared Library)
 
 ## Generate Header-File for native methods
 
